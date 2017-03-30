@@ -14,7 +14,11 @@
     ]
   },
   "account": {
-    "dataSource": null,
+    "dataSource": "in-memory-db-persisted",
+    "public": true
+  },
+  "bank": {
+    "dataSource": "in-memory-db-persisted",
     "public": true
   }
 }

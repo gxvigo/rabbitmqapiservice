@@ -1,0 +1,15 @@
+{
+  "ids": {
+    "test": 1,
+    "test2": 1,
+    "bank": 9438985808546528
+  },
+  "models": {
+    "test": {},
+    "test2": {},
+    "bank": {
+      "1238985808543744": "{\"full_name\":\"TSB bank\",\"id\":\"1238985808543744\",\"logo\":\"logo.jsp\",\"short_name\":\"TSB\",\"website\":\"www.tsbbank.co.nz\"}",
+      "9438985808546528": "{\"full_name\":\"Westpac NZ\",\"id\":\"9438985808546528\",\"logo\":\"logo.jsp\",\"short_name\":\"WNZL\",\"website\":\"www.westpac.co.nz\"}"
+    }
+  }
+}

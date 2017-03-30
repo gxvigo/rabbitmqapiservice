@@ -1,1 +1,7 @@
-{}
+{
+  "in-memory-db-persisted": {
+    "name": "in-memory-db-persisted",
+    "connector": "memory",
+    "file": "inmemorydbdata.json"
+  }
+}

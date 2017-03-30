@@ -1,0 +1,20 @@
+{
+  "ids": {
+    "test": 1,
+    "test2": 1,
+    "bank": 9438985808546528,
+    "account": 4937824606355461
+  },
+  "models": {
+    "test": {},
+    "test2": {},
+    "bank": {
+      "1238985808543744": "{\"full_name\":\"TSB bank\",\"id\":\"1238985808543744\",\"logo\":\"logo.jsp\",\"short_name\":\"TSB\",\"website\":\"www.tsbbank.co.nz\"}"
+    },
+    "account": {
+      "4937824606355456": "{\"IBAN\":\"NZTSB300043\",\"balance\":6430,\"id\":\"4937824606355456\",\"label\":\"primary\",\"number\":\"3515406278983680\",\"oweners\":\"John Goodstuff\",\"swift_bic\":\"TSBANZ22\",\"type\":\"standard\"}",
+      "4937824606355455": "{\"IBAN\":\"NZTSB300044\",\"balance\":12000,\"id\":\"4937824606355455\",\"label\":\"renovation\",\"number\":\"3515406278983684\",\"oweners\":\"John Goodstuff\",\"swift_bic\":\"TSBANZ22\",\"type\":\"savings\"}",
+      "4937824606355457": "{\"IBAN\":\"NZTSB300045\",\"balance\":500,\"id\":\"4937824606355457\",\"label\":\"ferrari\",\"number\":\"3515406278983685\",\"oweners\":\"John Goodstuff\",\"swift_bic\":\"TSBANZ22\",\"type\":\"savings\"}"
+    }
+  }
+}

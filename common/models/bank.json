@@ -1,17 +1,13 @@
 {
-  "name": "account",
+  "name": "bank",
   "base": "PersistedModel",
   "idInjection": true,
   "options": {
     "validateUpsert": true
   },
   "properties": {
-    "IBAN": {
+    "full_name": {
       "type": "string",
-      "required": false
-    },
-    "balance": {
-      "type": "number",
       "required": false
     },
     "id": {
@@ -19,23 +15,15 @@
       "id": true,
       "required": true
     },
-    "label": {
+    "logo": {
       "type": "string",
       "required": false
     },
-    "number": {
+    "short_name": {
       "type": "string",
       "required": false
     },
-    "oweners": {
-      "type": "string",
-      "required": false
-    },
-    "swift_bic": {
-      "type": "string",
-      "required": false
-    },
-    "type": {
+    "website": {
       "type": "string",
       "required": false
     }
