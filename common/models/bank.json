@@ -1,9 +1,13 @@
 {
   "name": "bank",
   "base": "PersistedModel",
-  "idInjection": true,
+  "idInjection": false,
   "options": {
     "validateUpsert": true
+  },
+  "mysql": {
+    "schema": "obp",
+    "table": "bank"
   },
   "properties": {
     "full_name": {

@@ -5,6 +5,10 @@
   "options": {
     "validateUpsert": true
   },
+  "mysql": {
+    "schema": "obp",
+    "table": "account"
+  },
   "properties": {
     "IBAN": {
       "type": "string",

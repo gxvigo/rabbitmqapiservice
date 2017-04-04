@@ -14,11 +14,11 @@
     ]
   },
   "account": {
-    "dataSource": "in-memory-db-persisted",
+    "dataSource": "mysql-docker",
     "public": true
   },
   "bank": {
-    "dataSource": "in-memory-db-persisted",
+    "dataSource": "mysql-docker",
     "public": true
   }
 }

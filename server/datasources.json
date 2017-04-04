@@ -3,5 +3,14 @@
     "name": "in-memory-db-persisted",
     "connector": "memory",
     "file": "inmemorydbdata.json"
+  },
+  "mysql-docker": {
+    "host": "mysql-obp",
+    "port": 3306,
+    "database": "obp",
+    "password": "passw0rd",
+    "name": "mysql-docker",
+    "connector": "mysql",
+    "user": "root"
   }
 }
